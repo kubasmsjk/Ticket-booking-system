@@ -7,7 +7,7 @@ Projekt powstał w ramach przedmiotu Programowanie Obiektowe.
 *	mechanizm generowania lotów (dobór samolotu w zależności od odległości, uwzględnienie czasu podróży oraz powrotu, powielanie lotów na wiele dni - codziennych, cotygodniowych) na podstawie trasy, 
 *	funkcjonalność rezerwacji biletów, 
 * zapis i odczyt stanu systemu na dysk. 
-* 
+
 ## Autorzy:
 * Jakub Mieczkowski ([@kubasmsjk]( https://github.com/kubasmsjk))
 * Marcin Marciniak ([@Leckly]( https://github.com/Leckly))
