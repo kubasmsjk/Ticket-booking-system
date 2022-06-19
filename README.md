@@ -1,6 +1,5 @@
 # Ticket-booking-system
-Airport-management to aplikacja konsolowa do zarządzania lotniskiem.  
-Projekt powstał w ramach przedmiotu Programowanie Obiektowe.  
+Ticket-booking-system to aplikacja konsolowa dla firmy lotniczej, która przyjmuje żądania rezerwacji od klientów indywidualnych i firm-pośredników. Firma posiada flotę wielu samolotów kilku typów (każdy o innej liczbie miejsc i zasięgu) i obsługuje różne tras między lotniskami. Projekt powstał w ramach przedmiotu Programowanie Obiektowe.  
 
 ## Podstawowe funkcje aplikacji: 
 *	zarządzanie samolotami i klientami (dodawanie, usuwanie, przegląd), 
