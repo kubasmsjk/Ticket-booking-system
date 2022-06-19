@@ -1,4 +1,4 @@
-# Airport-management
+# Ticket-booking-system
 Airport-management to aplikacja konsolowa do zarządzania lotniskiem.  
 Projekt powstał w ramach przedmiotu Programowanie Obiektowe.  
 
